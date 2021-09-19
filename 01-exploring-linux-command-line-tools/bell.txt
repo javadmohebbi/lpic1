@@ -1,1 +1,1 @@
-: BELL CHAR
+ BELL CHAR
