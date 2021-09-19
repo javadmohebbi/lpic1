@@ -1,13 +1,8 @@
-Lorem ipsum 
+42 Lorem ipsum 
 dolor sit amet 
 consectetur adipiscing elit
 Etiam quis orci
-enim 
-Vivamus quis nibh 
-at dolor aliquet semper
-Maecenas euismod ligula non arcu 
-fermentum aliquet 
-Etiam 
+fermentum aliquet  
 sit amet sem
 Flat Land 
 Javad's Cat 
