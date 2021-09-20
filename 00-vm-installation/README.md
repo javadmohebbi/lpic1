@@ -20,7 +20,7 @@ To do the exercises in our course, we assume you have either Ubuntu 18.04 LTS or
    - **Type**: Linux
    - **Version**: Ubuntu (64-bit)
 
-[ubuntu-01-vm-wizard-1](./ubuntu/ubuntu-01-vm-wizard-1.png)
+![ubuntu-01-vm-wizard-1](./ubuntu/ubuntu-01-vm-wizard-1.png)
 
 3. Click **next**. In this window you should config the virtual machine memory. 1024MB (1GB) memory is enough for our lab. But you can change it according to your need.
 
