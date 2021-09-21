@@ -5,7 +5,7 @@
 - ##### [Login to Server using SSH](00-vm-installation/SSH-README.md)
 
 
-#### Chapter 1: Exploring Linux Command-Line Tools
+#### [Chapter 1: Exploring Linux Command-Line Tools](01-exploring-linux-command-line-tools)
 - ##### Understanding Command-Line Basics
 - ##### Editing Text Files
 - ##### Processing Text Using Filters
