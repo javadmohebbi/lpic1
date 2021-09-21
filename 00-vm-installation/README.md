@@ -10,7 +10,7 @@ To do the exercises in our course, we assume you have either Ubuntu 18.04 LTS or
 1. You need to install VirtualBox (version 6.x is recommended)
     - Also may want to use VMware workstation or other similar software. Since VirtualBox is free software, we will use it here.
 2. Internet connection on host OS is required.
-3. 64bit Processor
+3. 64bit Processors
 
 # Installation Guide
 I recommend you install both OS to get familiar with different distibutions. Be sure not to config the same IP address for the OS **host-only** adapters. Because you might need to connect to both of them at the same time.
