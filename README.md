@@ -1,5 +1,5 @@
 
-#### Chapter 0: Preparing Virtual Machines
+#### [Chapter 0: Preparing Virtual Machines](00-vm-installation)
 - ##### [Ubuntu 18.04 LTS](00-vm-installation/UBUNTU-README.md)
 - ##### [CentOS 7](00-vm-installation/CENTOS-README.md)
 - ##### [Login to Server using SSH](00-vm-installation/SSH-README.md)
