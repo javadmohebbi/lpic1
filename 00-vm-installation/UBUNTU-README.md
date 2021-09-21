@@ -103,7 +103,7 @@
 
 ![ubuntu-04-vm-install-13](ubuntu/ubuntu-04-vm-install-13.png)
 
-25. In this step, you should provide your server and user information and also the credentials. for **Name, Server's Name and Username** you could use the below information and fill the password as you will. **\*\*\* Please don't forget username and the password. We need them to login to our server!**
+25. In this step, you should provide your server and user information and also the credentials. for **Name, Server's Name and Username** you could use the below information and fill the password as you wish. **\*\*\* Please don't forget username and the password. We need them to login to our server!**
 
 ![ubuntu-04-vm-install-14](ubuntu/ubuntu-04-vm-install-14.png)
 
@@ -128,7 +128,7 @@
 
 ![ubuntu-04-vm-install-19](ubuntu/ubuntu-04-vm-install-19.png)
 
-1.  To login to your server, you should use the credentials you have set in **Step 25**. Next to **login:**, type your username (my username is **student**), then press **Enter**. **\*\*\*Note**: Password will not show while you are typing. Don't worry! Type your password and press **Enter**.
+31.  To login to your server, you should use the credentials you have set in **Step 25**. Next to **login:**, type your username (my username is **student**), then press **Enter**. **\*\*\*Note**: Password will not show while you are typing. Don't worry! Type your password and press **Enter**.
 
 ![ubuntu-05-vm-login-1](ubuntu/ubuntu-05-vm-login-1.png)
 
