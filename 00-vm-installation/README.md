@@ -169,7 +169,7 @@ To do the exercises in our course, we assume you have either Ubuntu 18.04 LTS or
      - Download Putty from [this link](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.76-installer.msi).
      - Install it using the installation wizard.
      - Open **Putty** software.
-     - Provide the IP address. In my case `192.168.56.103`.
+     - Provide the IP address. In my case `192.168.56.103`
      ![ssh-putty-1](ssh/ssh-putty-1.png)
      - **\*\*\*Note**: First time, you might be asked to trust the host. Press the **Yes** button to trust it.
      ![ssh-putty-2](ssh/ssh-putty-2.png)
