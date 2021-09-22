@@ -1,0 +1,5 @@
+nobody
+halt
+student
+systemd
+root
