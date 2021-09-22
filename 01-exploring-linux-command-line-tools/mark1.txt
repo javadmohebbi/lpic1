@@ -1,0 +1,12 @@
+firstname,lastname,mark,city
+Abigail,Bell,20,Newyork
+Boris,Brown,18,Houston
+Jack,Cornish,15,Austin
+Sue,Hart,16,Mills,San Jose
+Wendy,Pullman,18,Washington
+Colin,Taylor,13,Chicago
+Owen,Wilson,15,Boston
+Ryan,Marshall,14,Denver
+Trevor,Dickens,10,San Diego
+Robert,Bower,19,Portland
+Rose,Churchill,15,Dallas
