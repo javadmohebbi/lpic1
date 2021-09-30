@@ -184,7 +184,11 @@
 ![centos-04-vm-install-32](centos/centos-04-vm-install-32.png)
 
 
-43. Check [Login to server using SSH](SSH-README.md#login-to-server-using-ssh) guide. We will login to our server using **SSH**. In real-wolrd scenarios, no one logins to server directly from the console and we do it too. So check [this guide](SSH-README.md#login-to-server-using-ssh) and do the same for your future logins.
+43.  Run **`sudo yum install nano git -y`** to insall both **nano** editor and **git** application.
+
+
+
+44.  Check [Login to server using SSH](SSH-README.md#login-to-server-using-ssh) guide. We will login to our server using **SSH**. In real-wolrd scenarios, no one logins to server directly from the console and we do it too. So check [this guide](SSH-README.md#login-to-server-using-ssh) and do the same for your future logins.
 
 
 
